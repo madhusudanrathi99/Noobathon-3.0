@@ -1,4 +1,4 @@
 # Noobathon 3.0
- jigyahsu
+ jigyashu
  maddy 
  rahul 
